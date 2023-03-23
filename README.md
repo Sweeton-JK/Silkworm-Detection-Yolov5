@@ -1,9 +1,4 @@
 <div align="center">
-  <p>
-    <a align="center" href="https://ultralytics.com/yolov5" target="_blank">
-      <img width="850" src="https://github.com/ultralytics/assets/blob/master/yolov5/v62/splash_readme.png"></a>
-  </p>
-
   English | [简体中文](.github/README_cn.md)
   <br>
   <div>
